@@ -1,0 +1,37 @@
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula02\Triangulo\Triangulo\bin\Debug\Triangulo.exe.config
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula02\Triangulo\Triangulo\bin\Debug\Triangulo.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula02\Triangulo\Triangulo\bin\Debug\Triangulo.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula02\Triangulo\Triangulo\obj\Debug\Triangulo.csprojResolveAssemblyReference.cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula02\Triangulo\Triangulo\obj\Debug\Triangulo.Form1.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula02\Triangulo\Triangulo\obj\Debug\Triangulo.Properties.Resources.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula02\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.GenerateResource.Cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula02\Triangulo\Triangulo\obj\Debug\Triangulo.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula02\Triangulo\Triangulo\obj\Debug\Triangulo.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula03\Triangulo\Triangulo\bin\Debug\Triangulo.exe.config
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula03\Triangulo\Triangulo\bin\Debug\Triangulo.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula03\Triangulo\Triangulo\bin\Debug\Triangulo.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula03\Triangulo\Triangulo\obj\Debug\Triangulo.csprojResolveAssemblyReference.cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula03\Triangulo\Triangulo\obj\Debug\Triangulo.Form1.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula03\Triangulo\Triangulo\obj\Debug\Triangulo.Properties.Resources.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula03\Triangulo\Triangulo\obj\Debug\Triangulo.csproj.GenerateResource.Cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula03\Triangulo\Triangulo\obj\Debug\Triangulo.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula03\Triangulo\Triangulo\obj\Debug\Triangulo.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula03\TrianguloColetto\Triangulo\bin\Debug\Triangulo.exe.config
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula03\TrianguloColetto\Triangulo\bin\Debug\Triangulo.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula03\TrianguloColetto\Triangulo\bin\Debug\Triangulo.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula03\TrianguloColetto\Triangulo\obj\Debug\Triangulo.csprojResolveAssemblyReference.cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula03\TrianguloColetto\Triangulo\obj\Debug\Triangulo.Form1.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula03\TrianguloColetto\Triangulo\obj\Debug\Triangulo.Properties.Resources.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula03\TrianguloColetto\Triangulo\obj\Debug\Triangulo.csproj.GenerateResource.Cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula03\TrianguloColetto\Triangulo\obj\Debug\Triangulo.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\PrimeiroSemestre\Santa C# noite\Aula03\TrianguloColetto\Triangulo\obj\Debug\Triangulo.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula02\Exemplo02b\Triangulo\bin\Debug\Triangulo.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula02\Exemplo02b\Triangulo\bin\Debug\Triangulo.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula02\Exemplo02b\Triangulo\bin\Debug\Triangulo.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula02\Exemplo02b\Triangulo\obj\Debug\Triangulo.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula02\Exemplo02b\Triangulo\obj\Debug\Triangulo.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula02\Exemplo02b\Triangulo\obj\Debug\Triangulo.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula02\Exemplo02b\Triangulo\obj\Debug\Triangulo.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula02\Exemplo02b\Triangulo\obj\Debug\Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula02\Exemplo02b\Triangulo\obj\Debug\Triangulo.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula02\Exemplo02b\Triangulo\obj\Debug\Triangulo.pdb

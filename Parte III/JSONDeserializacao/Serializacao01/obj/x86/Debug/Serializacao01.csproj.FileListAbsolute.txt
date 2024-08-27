@@ -1,0 +1,56 @@
+C:\Users\MauricioAsenjo\AppData\Local\Temporary Projects\Serializacao01\bin\Debug\Serializacao01.exe
+C:\Users\MauricioAsenjo\AppData\Local\Temporary Projects\Serializacao01\bin\Debug\Serializacao01.pdb
+C:\Users\MauricioAsenjo\AppData\Local\Temporary Projects\Serializacao01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MauricioAsenjo\AppData\Local\Temporary Projects\Serializacao01\obj\x86\Debug\Serializacao01.exe
+C:\Users\MauricioAsenjo\AppData\Local\Temporary Projects\Serializacao01\obj\x86\Debug\Serializacao01.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana09\Serializacao01\Serializacao01\obj\x86\Debug\Serializacao01.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana09\Serializacao01\Serializacao01\obj\x86\Debug\Serializacao01.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana09\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana09\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana09\Serializacao02\Serializacao01\bin\Debug\Serializacao01.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana09\Serializacao02\Serializacao01\bin\Debug\Serializacao01.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\SegundoSemestre\Santa C#\Semana09\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.csprojResolveAssemblyReference.cache
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana03\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana03\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana03\Serializacao02\Serializacao01\bin\Debug\Serializacao01.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana03\Serializacao02\Serializacao01\bin\Debug\Serializacao01.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\SegundoSemestre\Santa C#\Bim01Semana03\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.csprojResolveAssemblyReference.cache
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2015\Segundo Semestre\Santa C#\Bim01Semana05 Manha\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2015\Segundo Semestre\Santa C#\Bim01Semana05 Manha\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.pdb
+C:\Users\unisanta\Downloads\Bim01Semana05 Manha\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.exe
+C:\Users\unisanta\Downloads\Bim01Semana05 Manha\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.pdb
+C:\Users\unisanta\Downloads\Bim01Semana05 Manha\Serializacao02\Serializacao01\bin\Debug\Serializacao01.exe
+C:\Users\unisanta\Downloads\Bim01Semana05 Manha\Serializacao02\Serializacao01\bin\Debug\Serializacao01.pdb
+C:\Users\unisanta\Downloads\Bim01Semana05 Manha\Serializacao02\Serializacao01\bin\Debug\Newtonsoft.Json.dll
+C:\Users\unisanta\Downloads\Bim01Semana05 Manha\Serializacao02\Serializacao01\bin\Debug\Newtonsoft.Json.xml
+C:\Users\unisanta\Downloads\Bim01Semana05 Manha\Serializacao02\Serializacao01\obj\x86\Debug\Serializacao01.csprojResolveAssemblyReference.cache
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2015\Segundo Semestre\Santa C#\Bim01Semana07 Manha\SerializacaoJSON\Serializacao01\obj\x86\Debug\Serializacao01.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2015\Segundo Semestre\Santa C#\Bim01Semana07 Manha\SerializacaoJSON\Serializacao01\obj\x86\Debug\Serializacao01.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2015\Segundo Semestre\Santa C#\Bim01Semana07 Manha\SerializacaoJSON\Serializacao01\bin\Debug\Serializacao01.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2015\Segundo Semestre\Santa C#\Bim01Semana07 Manha\SerializacaoJSON\Serializacao01\bin\Debug\Serializacao01.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2015\Segundo Semestre\Santa C#\Bim01Semana07 Manha\SerializacaoJSON\Serializacao01\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2015\Segundo Semestre\Santa C#\Bim01Semana07 Manha\SerializacaoJSON\Serializacao01\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2015\Segundo Semestre\Santa C#\Bim01Semana07 Manha\SerializacaoJSON\Serializacao01\obj\x86\Debug\Serializacao01.csprojResolveAssemblyReference.cache
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2015\Segundo Semestre\Santa C#\Bim01Semana07 Manha\JSONDeserializacao\Serializacao01\obj\x86\Debug\Serializacao01.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2015\Segundo Semestre\Santa C#\Bim01Semana07 Manha\JSONDeserializacao\Serializacao01\obj\x86\Debug\Serializacao01.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2015\Segundo Semestre\Santa C#\Bim01Semana07 Manha\JSONDeserializacao\Serializacao01\bin\Debug\Serializacao01.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2015\Segundo Semestre\Santa C#\Bim01Semana07 Manha\JSONDeserializacao\Serializacao01\bin\Debug\Serializacao01.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2015\Segundo Semestre\Santa C#\Bim01Semana07 Manha\JSONDeserializacao\Serializacao01\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2015\Segundo Semestre\Santa C#\Bim01Semana07 Manha\JSONDeserializacao\Serializacao01\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2015\Segundo Semestre\Santa C#\Bim01Semana07 Manha\JSONDeserializacao\Serializacao01\obj\x86\Debug\Serializacao01.csprojResolveAssemblyReference.cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula07\JSONDeserializacao\Serializacao01\bin\Debug\Serializacao01.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula07\JSONDeserializacao\Serializacao01\bin\Debug\Serializacao01.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula07\JSONDeserializacao\Serializacao01\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula07\JSONDeserializacao\Serializacao01\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula07\JSONDeserializacao\Serializacao01\obj\x86\Debug\Serializacao01.csprojResolveAssemblyReference.cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula07\JSONDeserializacao\Serializacao01\obj\x86\Debug\Serializacao01.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula07\JSONDeserializacao\Serializacao01\obj\x86\Debug\Serializacao01.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula07c\JSONDeserializacao\Serializacao01\bin\Debug\Serializacao01.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula07c\JSONDeserializacao\Serializacao01\bin\Debug\Serializacao01.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula07c\JSONDeserializacao\Serializacao01\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula07c\JSONDeserializacao\Serializacao01\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula07c\JSONDeserializacao\Serializacao01\obj\x86\Debug\Serializacao01.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula07c\JSONDeserializacao\Serializacao01\obj\x86\Debug\Serializacao01.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula07c\JSONDeserializacao\Serializacao01\obj\x86\Debug\Serializacao01.csproj.CopyComplete
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula07c\JSONDeserializacao\Serializacao01\obj\x86\Debug\Serializacao01.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula07c\JSONDeserializacao\Serializacao01\obj\x86\Debug\Serializacao01.pdb

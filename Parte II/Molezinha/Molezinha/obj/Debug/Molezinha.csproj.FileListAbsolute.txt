@@ -1,0 +1,44 @@
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula07\TP06Solucao\Molezinha\Molezinha\bin\Debug\BDLivros.mdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula07\TP06Solucao\Molezinha\Molezinha\bin\Debug\Molezinha.exe.config
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula07\TP06Solucao\Molezinha\Molezinha\bin\Debug\Molezinha.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula07\TP06Solucao\Molezinha\Molezinha\bin\Debug\Molezinha.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula07\TP06Solucao\Molezinha\Molezinha\obj\Debug\Molezinha.csprojResolveAssemblyReference.cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula07\TP06Solucao\Molezinha\Molezinha\obj\Debug\Molezinha.Form1.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula07\TP06Solucao\Molezinha\Molezinha\obj\Debug\Molezinha.Properties.Resources.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula07\TP06Solucao\Molezinha\Molezinha\obj\Debug\Molezinha.csproj.GenerateResource.Cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula07\TP06Solucao\Molezinha\Molezinha\obj\Debug\Molezinha.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2019\SegundoSemestre\Santa C# noite\Bim01Aula07\TP06Solucao\Molezinha\Molezinha\obj\Debug\Molezinha.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula07b\Molezinha\Molezinha\bin\Debug\BDLivros.mdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula07b\Molezinha\Molezinha\bin\Debug\Molezinha.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula07b\Molezinha\Molezinha\bin\Debug\Molezinha.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula07b\Molezinha\Molezinha\bin\Debug\Molezinha.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula07b\Molezinha\Molezinha\obj\Debug\Molezinha.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula07b\Molezinha\Molezinha\obj\Debug\Molezinha.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula07b\Molezinha\Molezinha\obj\Debug\Molezinha.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula07b\Molezinha\Molezinha\obj\Debug\Molezinha.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula07b\Molezinha\Molezinha\obj\Debug\Molezinha.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula07b\Molezinha\Molezinha\obj\Debug\Molezinha.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\SegundoSemestre\Santa C#\Bim01Aula07b\Molezinha\Molezinha\obj\Debug\Molezinha.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula03\Parte I AulaPassada\Molezinha\Molezinha\bin\Debug\BDLivros.mdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula03\Parte I AulaPassada\Molezinha\Molezinha\bin\Debug\Molezinha.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula03\Parte I AulaPassada\Molezinha\Molezinha\bin\Debug\Molezinha.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula03\Parte I AulaPassada\Molezinha\Molezinha\bin\Debug\Molezinha.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula03\Parte I AulaPassada\Molezinha\Molezinha\obj\Debug\Molezinha.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula03\Parte I AulaPassada\Molezinha\Molezinha\obj\Debug\Molezinha.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula03\Parte I AulaPassada\Molezinha\Molezinha\obj\Debug\Molezinha.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula03\Parte I AulaPassada\Molezinha\Molezinha\obj\Debug\Molezinha.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula03\Parte I AulaPassada\Molezinha\Molezinha\obj\Debug\Molezinha.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula03\Parte I AulaPassada\Molezinha\Molezinha\obj\Debug\Molezinha.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Segundo Semestre\Santa LinguagemProgramacao\Bim01Aula03\Parte I AulaPassada\Molezinha\Molezinha\obj\Debug\Molezinha.pdb
+G:\Asenjo\SegundoSemestre\Bim01Aula02\Parte II\Molezinha\Molezinha\bin\Debug\BDLivros.mdb
+G:\Asenjo\SegundoSemestre\Bim01Aula02\Parte II\Molezinha\Molezinha\bin\Debug\Molezinha.exe.config
+G:\Asenjo\SegundoSemestre\Bim01Aula02\Parte II\Molezinha\Molezinha\bin\Debug\Molezinha.exe
+G:\Asenjo\SegundoSemestre\Bim01Aula02\Parte II\Molezinha\Molezinha\bin\Debug\Molezinha.pdb
+G:\Asenjo\SegundoSemestre\Bim01Aula02\Parte II\Molezinha\Molezinha\obj\Debug\Molezinha.csproj.AssemblyReference.cache
+G:\Asenjo\SegundoSemestre\Bim01Aula02\Parte II\Molezinha\Molezinha\obj\Debug\Molezinha.csproj.SuggestedBindingRedirects.cache
+G:\Asenjo\SegundoSemestre\Bim01Aula02\Parte II\Molezinha\Molezinha\obj\Debug\Molezinha.Form1.resources
+G:\Asenjo\SegundoSemestre\Bim01Aula02\Parte II\Molezinha\Molezinha\obj\Debug\Molezinha.Properties.Resources.resources
+G:\Asenjo\SegundoSemestre\Bim01Aula02\Parte II\Molezinha\Molezinha\obj\Debug\Molezinha.csproj.GenerateResource.cache
+G:\Asenjo\SegundoSemestre\Bim01Aula02\Parte II\Molezinha\Molezinha\obj\Debug\Molezinha.csproj.CoreCompileInputs.cache
+G:\Asenjo\SegundoSemestre\Bim01Aula02\Parte II\Molezinha\Molezinha\obj\Debug\Molezinha.exe
+G:\Asenjo\SegundoSemestre\Bim01Aula02\Parte II\Molezinha\Molezinha\obj\Debug\Molezinha.pdb

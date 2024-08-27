@@ -1,0 +1,66 @@
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\PrimeiroSemestre\Santa C#\Semana01\Solucao02\Solucao02\bin\Debug\Solucao02.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\PrimeiroSemestre\Santa C#\Semana01\Solucao02\Solucao02\bin\Debug\Solucao02.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\PrimeiroSemestre\Santa C#\Semana01\Solucao02\Solucao02\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\PrimeiroSemestre\Santa C#\Semana01\Solucao02\Solucao02\obj\x86\Debug\Solucao02.TrianguloIHM.resources
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\PrimeiroSemestre\Santa C#\Semana01\Solucao02\Solucao02\obj\x86\Debug\Solucao02.Properties.Resources.resources
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\PrimeiroSemestre\Santa C#\Semana01\Solucao02\Solucao02\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\PrimeiroSemestre\Santa C#\Semana01\Solucao02\Solucao02\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\PrimeiroSemestre\Santa C#\Semana01\Solucao02\Solucao02\obj\x86\Debug\Solucao02.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2013\PrimeiroSemestre\Santa C#\Semana01\Solucao02\Solucao02\obj\x86\Debug\Solucao02.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\PrimeiroSemestre\Santa C#\Bim01 Semana01\Solucao02\Solucao02\obj\x86\Debug\Solucao02.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\PrimeiroSemestre\Santa C#\Bim01 Semana01\Solucao02\Solucao02\obj\x86\Debug\Solucao02.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\PrimeiroSemestre\Santa C#\Bim01Semana01\Solucao02\Solucao02\obj\x86\Debug\Solucao02.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2014\PrimeiroSemestre\Santa C#\Bim01Semana01\Solucao02\Solucao02\obj\x86\Debug\Solucao02.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2015\Primeiro Semestre\Santa C#\Bim01Semana01\Solucao02\Solucao02\obj\x86\Debug\Solucao02.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2015\Primeiro Semestre\Santa C#\Bim01Semana01\Solucao02\Solucao02\obj\x86\Debug\Solucao02.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2016\Primeiro Semestre\Santa C# noite\Aula01\Solucao02\Solucao02\obj\x86\Debug\Solucao02.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2016\Primeiro Semestre\Santa C# noite\Aula01\Solucao02\Solucao02\obj\x86\Debug\Solucao02.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2016\Primeiro Semestre\Santa C# noite\Aula01\Solucao02\Solucao02\bin\Debug\Solucao02.exe
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2016\Primeiro Semestre\Santa C# noite\Aula01\Solucao02\Solucao02\bin\Debug\Solucao02.pdb
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2016\Primeiro Semestre\Santa C# noite\Aula01\Solucao02\Solucao02\obj\x86\Debug\Solucao02.csprojResolveAssemblyReference.cache
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2016\Primeiro Semestre\Santa C# noite\Aula01\Solucao02\Solucao02\obj\x86\Debug\Solucao02.TrianguloIHM.resources
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2016\Primeiro Semestre\Santa C# noite\Aula01\Solucao02\Solucao02\obj\x86\Debug\Solucao02.Properties.Resources.resources
+C:\Users\MauricioAsenjo\Documents\Computador - Casa\Apostilas\2016\Primeiro Semestre\Santa C# noite\Aula01\Solucao02\Solucao02\obj\x86\Debug\Solucao02.csproj.GenerateResource.Cache
+C:\Users\Asenjo\Documents\Computador - Casa\Apostilas\2017\Primeiro Semestre\Santa C# noite\Aula01\Solucao02\Solucao02\obj\x86\Debug\Solucao02.exe
+C:\Users\Asenjo\Documents\Computador - Casa\Apostilas\2017\Primeiro Semestre\Santa C# noite\Aula01\Solucao02\Solucao02\obj\x86\Debug\Solucao02.pdb
+C:\Users\Asenjo\Documents\Computador - Casa\Apostilas\2017\Primeiro Semestre\Santa C# noite\Aula01\Solucao02\Solucao02\bin\Debug\Solucao02.exe
+C:\Users\Asenjo\Documents\Computador - Casa\Apostilas\2017\Primeiro Semestre\Santa C# noite\Aula01\Solucao02\Solucao02\bin\Debug\Solucao02.pdb
+C:\Users\Asenjo\Documents\Computador - Casa\Apostilas\2017\Primeiro Semestre\Santa C# noite\Aula01\Solucao02\Solucao02\obj\x86\Debug\Solucao02.csprojResolveAssemblyReference.cache
+C:\Users\Asenjo\Documents\Computador - Casa\Apostilas\2017\Primeiro Semestre\Santa C# noite\Aula01\Solucao02\Solucao02\obj\x86\Debug\Solucao02.TrianguloIHM.resources
+C:\Users\Asenjo\Documents\Computador - Casa\Apostilas\2017\Primeiro Semestre\Santa C# noite\Aula01\Solucao02\Solucao02\obj\x86\Debug\Solucao02.Properties.Resources.resources
+C:\Users\Asenjo\Documents\Computador - Casa\Apostilas\2017\Primeiro Semestre\Santa C# noite\Aula01\Solucao02\Solucao02\obj\x86\Debug\Solucao02.csproj.GenerateResource.Cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\Federal Engenharia\Aula01\Solucao03\Solucao02\bin\Debug\Solucao02.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\Federal Engenharia\Aula01\Solucao03\Solucao02\bin\Debug\Solucao02.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\Federal Engenharia\Aula01\Solucao03\Solucao02\obj\x86\Debug\Solucao02.csprojResolveAssemblyReference.cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\Federal Engenharia\Aula01\Solucao03\Solucao02\obj\x86\Debug\Solucao02.TrianguloIHM.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\Federal Engenharia\Aula01\Solucao03\Solucao02\obj\x86\Debug\Solucao02.Properties.Resources.resources
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\Federal Engenharia\Aula01\Solucao03\Solucao02\obj\x86\Debug\Solucao02.csproj.GenerateResource.Cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\Federal Engenharia\Aula01\Solucao03\Solucao02\obj\x86\Debug\Solucao02.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\Federal Engenharia\Aula01\Solucao03\Solucao02\obj\x86\Debug\Solucao02.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Bim01Aula02\Parte I\SolucaoHoje\Solucao02\bin\Debug\Solucao02.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Bim01Aula02\Parte I\SolucaoHoje\Solucao02\bin\Debug\Solucao02.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Bim01Aula02\Parte I\SolucaoHoje\Solucao02\obj\x86\Debug\Solucao02.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Bim01Aula02\Parte I\SolucaoHoje\Solucao02\obj\x86\Debug\Solucao02.TrianguloIHM.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Bim01Aula02\Parte I\SolucaoHoje\Solucao02\obj\x86\Debug\Solucao02.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Bim01Aula02\Parte I\SolucaoHoje\Solucao02\obj\x86\Debug\Solucao02.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Bim01Aula02\Parte I\SolucaoHoje\Solucao02\obj\x86\Debug\Solucao02.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Bim01Aula02\Parte I\SolucaoHoje\Solucao02\obj\x86\Debug\Solucao02.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Bim01Aula02\Parte I\SolucaoHoje\Solucao02\obj\x86\Debug\Solucao02.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula02\Exemplo02a\Solucao02\bin\Debug\Solucao02.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula02\Exemplo02a\Solucao02\bin\Debug\Solucao02.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula02\Exemplo02a\Solucao02\obj\x86\Debug\Solucao02.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula02\Exemplo02a\Solucao02\obj\x86\Debug\Solucao02.TrianguloIHM.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula02\Exemplo02a\Solucao02\obj\x86\Debug\Solucao02.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula02\Exemplo02a\Solucao02\obj\x86\Debug\Solucao02.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula02\Exemplo02a\Solucao02\obj\x86\Debug\Solucao02.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula02\Exemplo02a\Solucao02\obj\x86\Debug\Solucao02.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula02\Exemplo02a\Solucao02\obj\x86\Debug\Solucao02.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\PrimeiroSemestre\SantaAplicDesktop\Bim01Aula02\Solucao04a\Solucao02\bin\Debug\Solucao02.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\PrimeiroSemestre\SantaAplicDesktop\Bim01Aula02\Solucao04a\Solucao02\bin\Debug\Solucao02.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\PrimeiroSemestre\SantaAplicDesktop\Bim01Aula02\Solucao04a\Solucao02\obj\x86\Debug\Solucao02.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\PrimeiroSemestre\SantaAplicDesktop\Bim01Aula02\Solucao04a\Solucao02\obj\x86\Debug\Solucao02.TrianguloIHM.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\PrimeiroSemestre\SantaAplicDesktop\Bim01Aula02\Solucao04a\Solucao02\obj\x86\Debug\Solucao02.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\PrimeiroSemestre\SantaAplicDesktop\Bim01Aula02\Solucao04a\Solucao02\obj\x86\Debug\Solucao02.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\PrimeiroSemestre\SantaAplicDesktop\Bim01Aula02\Solucao04a\Solucao02\obj\x86\Debug\Solucao02.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\PrimeiroSemestre\SantaAplicDesktop\Bim01Aula02\Solucao04a\Solucao02\obj\x86\Debug\Solucao02.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2024\PrimeiroSemestre\SantaAplicDesktop\Bim01Aula02\Solucao04a\Solucao02\obj\x86\Debug\Solucao02.pdb
